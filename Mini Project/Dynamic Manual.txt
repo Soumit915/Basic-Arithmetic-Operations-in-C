@@ -1,0 +1,74 @@
+			Welcome to the Dynamic Manual...
+
+
+      1. Overview:-
+
+
+	(i). Addition:-
+	        This module can add up positive real numbers upto any range. You just in need to produce the numbers in a proper mathematical format and don't need to mention anything, i.e., you neither need to produce the range neither the type of value.
+	Sample Ex:
+	        Enter the first number : 3656897867698769876
+	        Enter the second number : 3644876398768975.3687968
+	        Your answer is : 3660542744097538851.3687968
+
+
+	(ii). Subtraction:-
+	        This module can subtract any two positive real numbers upto any range. You just in need to produce the numbers in a proper mathematical format and don't need to mention anything, i.e., you neither need to produce the range neither the type of value.
+	Sample Ex:
+	        Enter the first number : 3656897867698769876
+	        Enter the second number : 3644876398768975.3687968
+	        Your answer is : 36532522991300000900.6312032
+
+
+	(iii). Multiplication:-
+	        This module can multiply any two positive real numbers upto any range. You again like the other two just need to represent the numbers in a proper mathematical format and don't need to mention anything. The code automatically detects the type, range and precision of each value.
+	Sample Ex:
+	        Enter the first number : 3656897867698769876
+	        Enter the second number : 3644876398768975.3687968
+	        Your answer is : 133289...986
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+
+      2. Rules, Exceptions and Assumptions:-
+
+
+	(i). Addition:-
+	      -> Just write the numbers in any proper mathematical order.
+	      -> You always need to write the decimal values less than 1 as '0.' precision.
+	      -> The result will always be displayed in the largest dp format, as per norms of normal algebra.
+	      -> Press an Enter key after you have finished typing the number.
+	      -> You cannot press any characters other than 0-9.
+	      -> You cannot press more than one dot.
+
+	(ii). Subtraction:-
+	      -> Just write the numbers in any proper mathematical order.
+	      -> You always need to write the decimal values less than 1 as '0.' precission.
+	      -> The result will always be displayed in the largest dp format, as per norms of normal algebra.
+	      -> Press an Enter key after you have finished typing the number.
+	      -> You cannot press any characters other than 0-9.
+	      -> You cannot press more than one dot.
+
+              (iii). Multiplication:-
+	      -> Just write the numbers in any proper mathematical order.
+	      -> You always need to write the decimal values less than 1 as '0.' precission.
+	      -> The result will always be displayed in the largest dp format, as per norms of normal algebra.
+	      -> Press an Enter key after you have finished typing the number.
+	      -> You cannot press any characters other than 0-9.
+	      -> You cannot press more than one dot.
+
+              (iv). Default:-
+	      -> In the common module just press your respective values and it will be generated. You donot need to press the Enter key for an input.
+             	      -> A new window will open according to your respective choice.
+	      -> To quit from any window just press the Q button presnt in the keyboard device of the console.
+
+
+Press Q to quit...
+
+
+
+--------------------------------------------------------------------------------
